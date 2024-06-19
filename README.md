@@ -19,8 +19,8 @@ API для работы с коллекцией мемов, используя F
 ### Запуск
 1. Клонируйте репозиторий:
    ```
-   git clone URL
-   cd memes_test_v2
+   git clone https://github.com/Ga1o/FastApi-Memes-S3.git
+   cd fastapi-memes-s3
    ```
 2. Утановите зависимости:
    ```
