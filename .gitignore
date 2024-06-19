@@ -1,0 +1,13 @@
+.idea
+.idea/
+venv
+venv/
+.venv
+.venv/
+.pytest_cache
+.pytest_cache/
+__pycache__
+__pucache__/
+.env
+test.db
+
